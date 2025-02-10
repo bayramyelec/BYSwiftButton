@@ -3,9 +3,9 @@
 
 Simple and customizable button in Swift.
 
-<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/1ad6eb35f4e8fcf8b44feb75c60121d90d4afad9/Gif/1.gif" width="300" /></a>
-<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/1ad6eb35f4e8fcf8b44feb75c60121d90d4afad9/Gif/2.gif" width="300" /></a>
-<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/91214af731522d8ec4382f0ac46f77a618befc61/Gif/4.gif" width="300" /></a>
+<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/1ad6eb35f4e8fcf8b44feb75c60121d90d4afad9/Gif/1.gif" width="200" /></a>
+<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/1ad6eb35f4e8fcf8b44feb75c60121d90d4afad9/Gif/2.gif" width="200" /></a>
+<a><img src="https://github.com/bayramyelec/BYSwiftButton/blob/91214af731522d8ec4382f0ac46f77a618befc61/Gif/4.gif" width="200" /></a>
 
 ## Properties
 
