@@ -37,9 +37,9 @@ Simple and customizable button in Swift.
 ```swift
     let skeuoButton = BYSkeuomorphicButton(title: "Press me", textColor: .black, backgroundColor: .systemGray6, cornerRadius: 10)
     skeuoButton.translatesAutoresizingMaskIntoConstraints = false
-    stackView.addArrangedSubview(skeuoButton)
     NSLayoutConstraint.activate([
       skeuoButton.heightAnchor.constraint(equalToConstant: 50)
+      skeuoButton.widthAnchor.constraint(equalToConstant: 150)
     ])
 ```
 
@@ -57,9 +57,9 @@ Simple and customizable button in Swift.
 ```swift
     let neonButton = BYNeonButton(title: "Press me", shadowColor: .systemCyan, cornerRadius: 20)
     neonButton.translatesAutoresizingMaskIntoConstraints = false
-    stackView.addArrangedSubview(neonButton)
     NSLayoutConstraint.activate([
       neonButton.heightAnchor.constraint(equalToConstant: 50)
+      neonButton.widthAnchor.constraint(equalToConstant: 150)
     ])
 ```
 
@@ -76,9 +76,9 @@ Simple and customizable button in Swift.
 ```swift
     let pressableButton = BYPressableButton(title: "Press me", backgroundColor: .lightGray, textColor: .black, shadowColor: .darkGray, cornerRadius: 10)
     pressableButton.translatesAutoresizingMaskIntoConstraints = false
-    stackView.addArrangedSubview(pressableButton)
     NSLayoutConstraint.activate([
       pressableButton.heightAnchor.constraint(equalToConstant: 50)
+      pressableButton.widthAnchor.constraint(equalToConstant: 150)
     ])
 ```
 
